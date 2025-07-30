@@ -14,5 +14,5 @@ AutoPersona is an AI-powered Flask app that generates unique personas based on c
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/AutoPersona.git
+   git clone https://github.com/kailashmaganti/AutoPersona.git
    cd AutoPersona
