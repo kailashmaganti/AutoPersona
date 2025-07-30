@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: autopersona
+    env: python
+    buildCommand: ""
+    startCommand: python app.py
+    envVars:
+      - key: COHERE_API_KEY
+        value: YfYYyltPWR63LMwRWj2YN8BaFAF8QDRR3n56Amjt
